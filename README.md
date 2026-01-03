@@ -11,6 +11,7 @@ The goal of this project is to answer the textbook questions, and present clean,
 
 - **Chapter 2**
   - Question 9 — Auto dataset: predictor analysis, summary statistics, and correlations
+  - Question 10 — Boston housing dataset: structure and predictor analysis, summary statistics, and correlations
 
 (Additional chapters and exercises will be added progressively.)
 
@@ -33,6 +34,7 @@ Each notebook follows a consistent structure:
 solutions/
 └── chapter_02/
     └── ch02_ex09.ipynb
+    └── ch02_ex10.ipynb
 ```
 
 ## ⚠️ Notes
